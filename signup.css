@@ -1,0 +1,151 @@
+.signup{
+    display: flex;
+    width: 1440px;
+height: 1024px;
+justify-content: center;
+
+
+}
+.gf{
+    display: flex;
+}
+.inputfield{
+    display: grid;
+}
+.img{
+    width: 665px;
+height: 434px;
+
+
+}
+.row1{
+    background-color: blue;
+    padding: 30px;
+    height: 770px;
+}
+.row2{
+    justify-content: center;
+    padding: 30px;
+}
+.title h3{
+    width: 477px;
+height: 153px;
+font-family: Roboto;
+font-size: 64px;
+font-weight: 700;
+line-height: 75px;
+text-align: left;
+color: white;
+}
+.title p{
+    width: 491px;
+height: 31px;
+top: 305px;
+font-family: Roboto;
+font-size: 24px;
+font-weight: 400;
+line-height: 28.13px;
+text-align: left;
+color: white;
+
+
+}
+.title2 h3{
+    width: 365px;
+height: 30px;
+font-family: Segoe UI;
+font-size: 64px;
+font-weight: 700;
+line-height: 85.13px;
+
+text-align: center;
+
+
+}
+.title2 p{
+    width: 363px;
+height: 31px;
+font-family: Roboto;
+font-size: 24px;
+font-weight: 400;
+line-height: 28.13px;
+margin-top: 0px;
+
+text-align: center;
+
+
+
+}
+.google{
+   display:flex;
+   width: auto;
+height: 72px;
+  .im{
+    width: 68.85px;
+height: 40px;
+
+
+  }
+   
+}
+.facebook{
+    width: 77px;
+height: 63px;
+
+
+}
+
+.gf{
+    gap: 1.5rem;
+    margin-left: -5px;
+}
+.Email,.Name,.Passward{
+    width: 422px;
+height: 64px;
+box-shadow: 0px 5px 0px rgba(0, 0, 0, 0.141);
+
+
+}
+label{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    
+}
+.hr:before{
+    content:" ";
+  display: block;
+  height: 2px;
+  width: 171px;
+  background:#5B9BF3;
+  position: relative;
+  margin-left: -190px;
+ 
+}
+.hr:after{
+    content:" ";
+  display: flex;
+  height: 2px;
+  width: 171px;
+  background:#5B9BF3;
+  position: relative;
+ 
+
+
+}
+.buttonsign{
+ 
+background: #5B9BF3;
+margin-top: 30px;
+width: 422px;
+height: 64px;
+border: #5B9BF3;
+border-radius: 15px;
+
+}
+.h2{
+    
+   color: white;
+    
+
+
+}
